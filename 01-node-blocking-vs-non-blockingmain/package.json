@@ -1,0 +1,18 @@
+{
+  "name": "01-node-blocking-vs-non-blockingmain",
+  "version": "1.0.0",
+  "main": "app-blocking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app-blocking.js",
+    "dev": "nodemon app-blocking.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "description": ""
+}
